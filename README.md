@@ -142,6 +142,7 @@ Micronaut is a modern, JVM-based, full stack microservices framework designed fo
 * [Sample Micronaut Microservices](https://github.com/piomin/sample-micronaut-microservices) by [Piotr Mińkowski](https://twitter.com/Piotr_Minkowski)
 * [ASCLAB Micronaut PoC - LAB Insurance Sales Portal](https://github.com/asc-lab/micronaut-microservices-poc) by [Altkom Software & Consulting](https://twitter.com/AltkomSC)
 * [Panopticum](https://github.com/theSharque/panopticum) - Dev/QA web tool for DB operations (MongoDB, Redis, ClickHouse, PostgreSQL) with Micronaut + Thymeleaf + MCP
+* [Mateu](https://github.com/miguelperezcolom/mateu) - Model-driven UI framework that renders forms, CRUDs and app shells from annotated Java classes, with a Micronaut adapter, by [Miguel Pérez Colom](https://github.com/miguelperezcolom)
 * [Official Micronaut Petstore](https://github.com/micronaut-projects/micronaut-examples/tree/master/petstore) by [OCI](https://twitter.com/ObjectComputing)
 * [Micronaut Predator JDBC Example](https://github.com/franz-see/micronaut-predator-jdbc-example) by [Franz Allan Valencia See
 ](https://twitter.com/franz_see)
